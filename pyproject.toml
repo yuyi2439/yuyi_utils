@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yuyi"
+version = "0.0.1b0"
+authors = [
+  { name="yuyi2439", email="yuyi2439@qq.com" },
+]
+description = "yuyi2439's utils"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/yuyi2439/yuyi_utils"
+"Bug Tracker" = "https://github.com/yuyi2439/yuyi_utils/issues"
